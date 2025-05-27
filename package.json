@@ -1,6 +1,6 @@
 {
   "name": "todo-swipe-card",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A specialized swipe card for todo lists in Home Assistant with custom styling",
   "main": "src/index.js",
   "scripts": {
